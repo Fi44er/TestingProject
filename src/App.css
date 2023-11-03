@@ -71,9 +71,9 @@ header {
 }
 
 @media (max-width: 1400px) {
-    header {
-        padding: 5%;
-    }
+  header {
+    padding: 5%;
+  }
   .headerMenu {
     width: 70%;
   }
